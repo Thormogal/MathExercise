@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MathExercise</string>
+    <string name="greetingsText">Hello and welcome to this math exercise!</string>
+</resources>
